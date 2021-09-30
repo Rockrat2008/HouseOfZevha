@@ -1,4 +1,6 @@
 body {
+  background-color: #400350;
+  color: #cec8ff;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -6,6 +8,7 @@ h1,
 h2,
 h3 {
   font-family: "Lobster", cursive;
+  text-align: center;
 }
 
 h2 {
